@@ -13,7 +13,6 @@ local RunService = game:GetService("RunService")
 
 -- Variables
 local Mouse = Players.LocalPlayer:GetMouse()
-local IsMobile = RunService.TouchEnabled
 
 local Library = {
         Connections = {},
